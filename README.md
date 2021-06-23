@@ -2,7 +2,8 @@
 
 This is my fanpage app for iOS and Android.
 
-I've only tested this app on Android and iOS simulator. All functions requuired in the homework pdf was
+I've only tested this app on Android and iOS simulator. All functions required in the homework .pdf was performed on the demo video.
+
 
 After flutter is installed properly, setting up the simulator, locate the fanpageapp_kc directory in terminal and execute these command line 'flutter pub get', 'flutter run'. This should install the app into your simulator.
 
