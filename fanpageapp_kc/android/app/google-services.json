@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "567059839628",
+    "project_id": "fir-flutter-fanpage-hw1",
+    "storage_bucket": "fir-flutter-fanpage-hw1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567059839628:android:78755f047c0595fcb399a9",
+        "android_client_info": {
+          "package_name": "com.example.fanpageapp_kc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567059839628-i1tnal97drrdovui5ton77hnpdfpb1hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fanpageapp_kc",
+            "certificate_hash": "c24b6b586c3475abde2d7ff3b520fc0cec1fe645"
+          }
+        },
+        {
+          "client_id": "567059839628-3upi0kcsvlm74n2o44j8s7tfh2j4k4da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sRJZ-reP5XTP0FGdPDV5HCR5taoDEv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567059839628-3upi0kcsvlm74n2o44j8s7tfh2j4k4da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567059839628-8bd5sfag5oaaa0rn52t1ir3c3lfn7n19.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fanpageappKc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
